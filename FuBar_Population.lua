@@ -1,5 +1,5 @@
 FuBar_Population = AceLibrary("AceAddon-2.0"):new("AceEvent-2.0", "AceConsole-2.0", "AceDB-2.0", "FuBarPlugin-2.0")
-FuBar_Population.hasIcon = true
+FuBar_Population.hasIcon = 'icon'
 FuBar_Population.cannotHideText = true
 FuBar_Population.cannotDetachTooltip = true
 FuBar_Population.hasNoColor = true
